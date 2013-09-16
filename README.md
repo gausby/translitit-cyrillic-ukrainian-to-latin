@@ -23,7 +23,7 @@ Now, you can include the transliteration service in your project by including it
 
 `translit` will now be a function, that will transliterate its input.
 
-    translit('Борщагівка'); // returns 'Borshchagivka'
+    translit('Борщагівка'); // returns 'Borshchahivka'
 
 
 ## Development
