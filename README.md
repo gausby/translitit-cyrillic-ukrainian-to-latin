@@ -1,5 +1,5 @@
-Russian Ukrainian to Latin Transliteration
-====================================================
+Ukrainian Cyrillic to Latin Transliteration
+=====================================================
 A JavaScript function that transliterate strings from cyrillic ukrainian to latin.
 
 This project is build using the [translitit-engine][translitit-engine], and its unit tests has been lifted from [Anton Podviaznikov][podviaznikov]'s project called [transliteration.ua][transliteration.ua].
